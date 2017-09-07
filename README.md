@@ -12,8 +12,8 @@ The stock that is being checked is defined by the variable ticker
 ticker=["AAPL"];
 
 The output generated is printed to the command window looks like this
-Stock price for AAPL on 2017-09-07 12:39:15 = 161.1801
->>
+    Stock price for AAPL on 2017-09-07 12:39:15 = 161.1801
+    >>
 
 Planned updates
 * Add additional data such as :
