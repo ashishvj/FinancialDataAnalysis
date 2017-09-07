@@ -19,8 +19,8 @@ The output generated is printed to the command window looks like this
 
 Planned updates
 
-[] Add previous close, 
-[] Add todays high/low, 
+[]Add previous close, 
+[]Add todays high/low, 
 [] Add 52 Week High low.
 [] Incorporte checking stock price for multiple stocks
 [] Pull historical data.
