@@ -23,6 +23,23 @@ The output generated is printed to the command window looks like this
 This is an update to the p1 file. Added extraction of more parameters from the NASDAQ website
 i.e Today's High/ Low, 52-week High/Low, Net change and Net percentage change
 
+    The output generate here is:
+    Apple Inc. Common Stock Real Time Stock Quotes
+    Stock price for AAPL on 2017-09-07 21:13:31 (local time)
+
+    Stock price = $161.2
+    Net Change -0.71
+    Net Percet Change -0.44%
+
+    Previous close = $161.91
+
+    Today's High = $162.32
+    Today's Low = $160.36
+
+    52 Week High = $164.94
+    52 Week Low = $102.53
+
+    >>
 Planned updates
 
 - [x] Add previous close, (added in fin_data_analysis_p2.m) 
