@@ -34,7 +34,7 @@ Planned updates
 - [ ] Store data locally (database?)
 - [ ] Check if data exists, so that there is no need to scrape data from the NASDAQ website everytime,
 - [ ] Visual data representation of stock price fluctuation and volume for 1 day, 5 day, 1 month, 6 month, 1 year (and maybe more)
-- [ ] Add error catch and testing functionality
+- [ ] Add error catching and testing functionality
 
 If you have any suggestions on what changes or updates could be made feel free to reach out to me at ashishvjagtiani AT gmail.com
 
