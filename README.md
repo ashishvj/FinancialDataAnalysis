@@ -31,7 +31,7 @@ Planned updates
 - [x] Add net change, percent change in stock price (added in fin_data_analysis_p2.m)
 - [ ] Incorporte checking stock price for multiple stocks
 - [ ] Pull historical data.
-- [ ]Store data locally (database?)
+- [ ] Store data locally (database?)
 - [ ] Check if data exists, so that there is no need to scrape data from the NASDAQ website everytime,
 - [ ] Visual data representation of stock price fluctuation and volume for 1 day, 5 day, 1 month, 6 month, 1 year (and maybe more)
 - [ ] Add error catch and testing functionality
