@@ -1,0 +1,1 @@
+clear;clc;system ("python test.py > output.log");A=load("-ascii","output.log");
